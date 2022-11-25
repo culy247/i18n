@@ -8,6 +8,7 @@
     "json/**/*",
     "typings/**/*"
   ],
+  "type": "module",
   "typings": "./typings",
   "repository": "https://github.com/fnando/i18n",
   "author": "Nando Vieira <me@fnando.com>",
